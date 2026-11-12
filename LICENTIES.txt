@@ -1,0 +1,22 @@
+Gebruikte bronnen
+
+3D-modellen (Khronos glTF Sample Assets):
+- SheenChair: (c) Wayfair LLC, CC0
+- IridescentDishWithOlives: (c) Wayfair LLC, CC BY 4.0
+- GlassVaseFlowers: publiek domein, CC0
+- DiffuseTransmissionPlant: (c) Darmstadt Graphics Group GmbH, CC BY 4.0
+  https://github.com/KhronosGroup/glTF-Sample-Assets
+  Licentie: https://creativecommons.org/licenses/by/4.0/
+
+HDRI-omgeving: "Rooitou Park" van Poly Haven (polyhaven.com), CC0.
+Texturen houten vloer, baksteen en gras: three.js voorbeeldtexturen (MIT, github.com/mrdoob/three.js).
+Overige texturen en modellen (eiken, stuc, vloerkleed, tegels, werkblad, schilderij, gitaar, klok, stok, kaars, aansteker, kerstboom, kerststal, kerstkrans) zijn zelf gemaakt.
+
+Liedjes, afbeeldingen van de thema's en de opdruk op de kaars: uit de eigen map sfeervieringen van De Baalderborg Groep.
+Kerstverhaal (video/kerstverhaal.mp4): het filmpje 'Kerstverhaal met zand' uit dezelfde map, gemaakt door Sandy Tales; ingekort en het geluid versterkt. De rechten liggen bij de maker.
+
+Software in de website: three.js (MIT).
+Alleen gebruikt bij het maken (niet in de website): Blender Cycles (360°-foto's van de kamer), Intel Open Image Denoise (Apache 2.0), xatlas (MIT).
+
+Kerstliederen (muziek/komt-allen-tezamen.mp3, muziek/de-herdertjes-lagen-bij-nachte.mp3): het geluid uit de twee filmpjes in de eigen map. De rechten liggen bij de makers van die opnames.
+Startscherm: de kerststal is zelf gemaakt (Blender), net als in de viering.
