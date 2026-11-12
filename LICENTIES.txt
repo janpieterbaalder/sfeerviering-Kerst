@@ -20,4 +20,4 @@ Alleen gebruikt bij het maken (niet in de website): Blender Cycles (360°-foto's
 
 Kerstliederen (muziek/komt-allen-tezamen.mp3, muziek/de-herdertjes-lagen-bij-nachte.mp3): het geluid uit de twee filmpjes in de eigen map. De rechten liggen bij de makers van die opnames.
 Startscherm: de kerststal is zelf gemaakt (Blender), net als in de viering.
-Achtergrondmuziek startscherm (muziek/kerst-achtergrond.mp3): Stille Nacht, melodie van Franz Xaver Gruber (1818), publiek domein. Eigen instrumentale uitvoering (piano, celesta, strijkers), gemaakt met FluidSynth en de MuseScore General-soundfont (MIT-licentie).
+Achtergrondmuziek startscherm (muziek/kerst-achtergrond.mp3): "Christmas Spirit" van Shane Ivers, silvermansound.com. Zachter gezet. Naamsvermelding staat op het startscherm.

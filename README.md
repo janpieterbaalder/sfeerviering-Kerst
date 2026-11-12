@@ -22,7 +22,7 @@ Start in deze map een eenvoudige webserver, bijvoorbeeld `python -m http.server 
 
 ## Achtergrondmuziek startscherm
 
-De website speelt `muziek/kerst-achtergrond.mp3` zacht onder het startscherm, standaard aan: een eigen instrumentale uitvoering van Stille Nacht (publiek domein). Vervang je het bestand, pas dan ook de vermelding onder de stal aan. Ontbreekt het bestand, dan verdwijnen de muziekknop en de vermelding vanzelf.
+De website speelt `muziek/kerst-achtergrond.mp3` zacht onder het startscherm, standaard aan: Christmas Spirit van Shane Ivers (silvermansound.com). Houdt de browser het geluid tegen tot de eerste klik, dan vraagt het startscherm om één tik. Vervang je het bestand, pas dan ook de vermelding onder de stal aan. Ontbreekt het bestand, dan verdwijnen de muziekknop en de vermelding vanzelf.
 
 ## Licenties
 
