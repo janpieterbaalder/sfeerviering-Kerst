@@ -8,8 +8,8 @@ De viering: klok, *Vrede voor jou*, kaars aansteken, welkomslied (voor 1 tot 10 
 
 | Pad | Inhoud |
 |---|---|
-| `index.html` | de hele website (three.js en de kamer zitten erin) |
-| `pano-avond.js` | de kamer in kerstavondlicht, vooraf gerenderd |
+| `index.html` | de website (three.js, de voorwerpen op tafel, het startscherm) |
+| `pano-avond.js` | de kamer in kerstavondlicht, vooraf gerenderd; wordt bij het openen meteen mee geladen |
 | `muziek/` | de liedjes |
 | `stem/kerst/` | de ingesproken tekst |
 | `video/kerstverhaal.mp4` | het kerstverhaal |
